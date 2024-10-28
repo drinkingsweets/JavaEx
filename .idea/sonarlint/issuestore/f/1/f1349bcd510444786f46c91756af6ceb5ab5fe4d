@@ -1,0 +1,40 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È°ñ˜8€ƒÍª2J$214e3f58-2ffe-497e-8a3a-f6d31f2ce1d7
+m	java:S106"+Replace this use of System.out by a logger.(ùŒæ8ƒƒÍª2J$a60987a5-ee5f-479e-a336-c4ff791294f0
+m	java:S106
+"+Replace this use of System.out by a logger.(ÓåûÇ8„ƒÍª2J$58e135f4-1b20-45f3-8ea7-14513156aa7f
+u
+java:S6126
+"2Replace this String concatenation with Text block.(ÓåûÇ8„ƒÍª2J$212ade9a-0e8b-4c8a-9855-d25e696d2084
+r	java:S106"+Replace this use of System.out by a logger.(ş‚ãæüÿÿÿÿ8„ƒÍª2J$b11deef6-093e-40c9-9965-2cbb6ec6bd1b
+l	java:S106"+Replace this use of System.out by a logger.(Ò”É8„ƒÍª2J$f38c78ce-25fb-47cd-826e-129a768ddd16
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Çµí‘8…ƒÍª2J$dd7b40f1-c1fb-4b03-9f43-f50bb8652665
+	java:S128{"LEnd this switch case with an unconditional break, return or throw statement.(¡È›8ş¼®Íª2J$56ba3bd4-2f2d-4ff3-a805-b5422765bd30
+	java:S128Q"LEnd this switch case with an unconditional break, return or throw statement.(ç¿Ô8ˆƒÍª2J$8beed376-f61c-4270-b304-e2605ad5fef4
+“	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ÙÆäÊÿÿÿÿÿ8ˆƒÍª2J$f4403330-3395-459d-a60c-f4fb8a8611a0
+r	java:S106"+Replace this use of System.out by a logger.(ÉÖÊªúÿÿÿÿ8ˆƒÍª2J$93212abc-e80e-4543-82a3-16a439d39ddc
+m	java:S106""+Replace this use of System.out by a logger.(‰şÎ¯8ˆƒÍª2J$cbbcc2cf-5281-4c3b-b96b-d8c3db4371fa
+m	java:S106+"+Replace this use of System.out by a logger.(³Ÿ¯ü8‰ƒÍª2J$a8728697-4740-4d84-afd4-98e096ae0391
+m	java:S106/"+Replace this use of System.out by a logger.(³Ÿ¯ü8‰ƒÍª2J$931a7949-10be-4eb4-9f5c-abcb4adf1b12
+m	java:S1062"+Replace this use of System.out by a logger.(ôÜáÊ8‰ƒÍª2J$d0db65b8-ddff-4d87-801f-462c58e51852
+r	java:S1069"+Replace this use of System.out by a logger.(÷¦âùÿÿÿÿ8ŠƒÍª2J$97270466-4a55-41fc-bc7b-2486dd742cb2
+m	java:S106A"+Replace this use of System.out by a logger.(ªçÊÕ8ŠƒÍª2J$2a2c4b49-7901-4259-935e-7a642f1af117
+l	java:S106F"+Replace this use of System.out by a logger.(¡‡˜B8ŠƒÍª2J$0a609c69-c6b6-4253-b1cc-50a8a0f0fb3b
+m	java:S106H"+Replace this use of System.out by a logger.(“´û÷8ŠƒÍª2J$4f96814b-c47b-4d03-9d06-3647e70e4bcd
+r	java:S106L"+Replace this use of System.out by a logger.(ÂÔ•üÿÿÿÿ8ŠƒÍª2J$78b55a5e-c229-4e35-a05e-d5c0495e8edc
+r	java:S106R"+Replace this use of System.out by a logger.(ÉÖÊªúÿÿÿÿ8ŠƒÍª2J$ba158c6e-8854-4617-9133-a5b5122431a9
+m	java:S106U"+Replace this use of System.out by a logger.(‰şÎ¯8‹ƒÍª2J$9eb57f00-035f-440a-a5b3-d5664e1f9b41
+l	java:S106\"+Replace this use of System.out by a logger.(²ÑÕ~8‹ƒÍª2J$d61a2345-b074-4211-a5bf-3e75331f9d9a
+r	java:S106`"+Replace this use of System.out by a logger.(ÇÛ¹Øùÿÿÿÿ8‹ƒÍª2J$ca3d2458-1a73-44e0-a313-5ca137d321b5
+m	java:S106a"+Replace this use of System.out by a logger.(»à ™8‹ƒÍª2J$7d186b22-2b2e-4745-9cef-693377bcd1af
+r	java:S106d"+Replace this use of System.out by a logger.(¤ö²Šúÿÿÿÿ8‹ƒÍª2J$fc31af38-5239-41d9-ba66-1fbe66b14667
+m	java:S106n"+Replace this use of System.out by a logger.(Š‡‰‚8ŒƒÍª2J$b3816d4b-8fbc-4b57-9a69-c2c585055519
+r	java:S106w"+Replace this use of System.out by a logger.(ÂÔ•üÿÿÿÿ8ŒƒÍª2J$2a2957e8-4c2c-4842-aa80-31ece1d42d9b
+n	java:S106€"+Replace this use of System.out by a logger.(¤¢¥8ŒƒÍª2J$ccf79993-091c-435f-86ff-ef88628754a0
+s	java:S106‚"+Replace this use of System.out by a logger.(¼ Ç­øÿÿÿÿ8ŒƒÍª2J$55553233-70ff-408f-bda8-e874d4ea85cb
+n	java:S106‰"+Replace this use of System.out by a logger.(â»ú£8ƒÍª2J$66e6e6b4-4551-42dd-8183-1fe5ce6887b8
+s	java:S106‘"+Replace this use of System.out by a logger.(ÏØ°Õûÿÿÿÿ8ƒÍª2J$0bbf211f-cc92-47b6-89fd-b2f77b88077e
+s	java:S106•"+Replace this use of System.out by a logger.(¸ı›ùÿÿÿÿ8‚½®Íª2J$6cd384e9-5523-48eb-82cc-fb419336bd3f
+Š
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 122 to 64, Complexity from 21 to 14, Nesting Level from 5 to 2, Number of Variables from 24 to 6.(Çµí‘8ƒÍª2J$f978df64-e39f-4acd-941b-5904dfc1752c

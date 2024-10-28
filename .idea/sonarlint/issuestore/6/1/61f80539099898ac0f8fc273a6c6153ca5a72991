@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡î¿Áùÿÿÿÿ8œ‚Áê¬2J$d117cf80-066a-4f8a-a682-0e79bf9f5c15
+‹
+java:S6208"CMerge the previous cases into this one using comma-separated label.(ë¢µ™ûÿÿÿÿ8µŠë¬2J$8ad3418f-cb30-4b7d-974b-59459bae866c
+•
+java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(É”­„8Û°–ë¬2J$6c436a7a-c336-485c-a87c-078effafa9dc
+Œ
+java:S3358M"DExtract this nested ternary operation into an independent statement.(Æ˜–ùÿÿÿÿ8Û°–ë¬2J$1e0eaf6f-425f-4a1b-bb66-49cae1a1152f
+i	java:S131u""Add a default case to this switch.(îÇËúÿÿÿÿ8İ°–ë¬2J$91de8fad-42bd-47e1-8f03-b9eea06ed167
+s	java:S106”"+Replace this use of System.out by a logger.(îæ ˆıÿÿÿÿ8›µŠë¬2J$044b99ad-8c74-40c5-98c3-611d4fcc7a50
+n	java:S106¤"+Replace this use of System.out by a logger.(âö¤©8è°–ë¬2J$2f24292f-2098-443b-bc07-2492046837f0
+n	java:S106§"+Replace this use of System.out by a logger.(Üû•º8é°–ë¬2J$7d3c8ba5-fe86-491b-b40a-90e1b482859a

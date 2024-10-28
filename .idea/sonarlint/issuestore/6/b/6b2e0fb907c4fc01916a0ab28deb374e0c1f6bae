@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸŒÞç8ÈÆ¾¯ž2J$61c9f689-8334-4335-86c6-4fa93f3db014
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8ÉÆ¾¯ž2J$af5e1c5f-9ce7-4245-8243-3afa791ea112
+m	java:S106/"+Replace this use of System.out by a logger.(Ñ˜²ß8ÍÆ¾¯ž2J$0f94fd33-94a1-4a3e-99a1-08ac82979c94
+m	java:S1068"+Replace this use of System.out by a logger.(Ñ˜²ß8ÍÆ¾¯ž2J$66055953-8868-44eb-afe4-537fa07a7c8b
+m	java:S106@"+Replace this use of System.out by a logger.(Ñ˜²ß8ÍÆ¾¯ž2J$60c8ee86-243f-47ff-8ac8-669792829f68
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÎÆ¾¯ž2J$e77ea12c-f819-49a2-bef0-89c3e9ca0609

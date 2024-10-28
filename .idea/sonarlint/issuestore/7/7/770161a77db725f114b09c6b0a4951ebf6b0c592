@@ -1,0 +1,17 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È°ñ˜8¡Èüİ©2J$54d2a741-c7a8-4f9c-abae-7e0110c21e66
+–
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8¡Èüİ©2J$dff90f31-11f4-45ef-945d-0083e7e2ca79
+“
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8¡Èüİ©2J$38028655-df41-4953-894f-dd34d4f48f80
+›
+java:S1104"SMake surname a static final constant or non-public and provide accessors if needed.(ÅÇÏ•úÿÿÿÿ8¡Èüİ©2J$260298c1-33ff-4e20-81cb-92ed4d361757
+
+java:S1104"VMake patronymic a static final constant or non-public and provide accessors if needed.(ÍÓØÄıÿÿÿÿ8¡Èüİ©2J$4635d080-951e-47e2-9368-6a9e2a87cf91
+›
+java:S1104"SMake address a static final constant or non-public and provide accessors if needed.(€ªµúÿÿÿÿÿ8¡Èüİ©2J$fdd7cf4d-eaca-4568-98e9-14d4f9c45446
+“
+java:S1104	"PMake role a static final constant or non-public and provide accessors if needed.(÷¬±8¡Èüİ©2J$dd0af518-c11e-4dbe-9f70-408149ab2313
+–
+java:S1104
+"SMake keyWord a static final constant or non-public and provide accessors if needed.(ø°—õ8öÉ†Ş©2J$9dd6df09-7ddc-48a9-95b1-ee33ceb0914c

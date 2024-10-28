@@ -1,0 +1,13 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È°ñ˜8†Ü¹Ìª2J$27956e94-247a-4f3b-a7b2-43e88171a02b
+¸
+java:S13192"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(îò¿ïúÿÿÿÿ8†Ü¹Ìª2J$2505b94c-2aa7-4b69-b315-b3cdf0cd2c47
+r	java:S106"+Replace this use of System.out by a logger.(¦”¡½ùÿÿÿÿ8ŒÜ¹Ìª2J$b5f1a91e-63b0-425a-a1ef-32a18ec3cadd
+l	java:S106 "+Replace this use of System.out by a logger.(ÿ–—{8Ü¹Ìª2J$b3fb402b-8d8b-45ea-a2ee-62cc4210c8d2
+r	java:S106""+Replace this use of System.out by a logger.(ãÓƒ·ıÿÿÿÿ8Ü¹Ìª2J$04d1d58a-e1bd-4155-a5e7-18f25797cb5d
+r	java:S106$"+Replace this use of System.out by a logger.(£°íşÿÿÿÿ8Ü¹Ìª2J$18408e4a-aa77-45a3-9e2e-3604c0814e3c
+r	java:S106m"+Replace this use of System.out by a logger.(õ½áúøÿÿÿÿ8’Ü¹Ìª2J$5d384083-e0af-4a5e-894b-f5b67e00751b
+m	java:S106o"+Replace this use of System.out by a logger.(„î²‘8’Ü¹Ìª2J$05acb44c-88bd-415f-a829-ff150c2f2bac
+r	java:S106v"+Replace this use of System.out by a logger.(¡ìñÃşÿÿÿÿ8“Ü¹Ìª2J$e79d6010-61b8-4b68-b2a3-b15474b91ead
+r	java:S106~"+Replace this use of System.out by a logger.(º¡Ûúÿÿÿÿ8”Ü¹Ìª2J$5328cf22-ea9d-4e75-b66d-2e71385f41bd
+n	java:S106"+Replace this use of System.out by a logger.(–ûµ8Ó»»Ìª2J$3b6d0337-e308-4837-92d7-6f8278f96acf

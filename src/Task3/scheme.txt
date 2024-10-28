@@ -1,0 +1,40 @@
++-------------------------+
+|   Library               |
++-------------------------+
+| - books                 |-----------------+
+| - employees             |                 |
+| - readers               |                 |
++-------------------------+                 |
+| + add()                 |                 |
+| + remove()              |                 |+----------------+
+| + getBooks()            |                 >|    Book        |
+| + booksLeft()           |                  +----------------+
+| + booksTaken()          |-------+--------->| + id           |
+| + booksInCategory()     |       |          | + name         |
+| + findBook()            |-------+--------->| + author       |
+| + findBookObject()      |-------+          | + publisher    |
+| + findReader()          |-------+          | + year         |
+| + giveBook()            |       |          | + category     |
+| + takeBook()            |       |          | + isTaken      |
+| + addEmployee()         |       |          | + toString()   |
+| + addReader()           |       |          +----------------+
+| + removeReader()        |       |
+| + authenticationCheck() |       |
+| + removeEmployee()      |       |
++-------------------------+       |
+             |                    |
+             | uses               |
+             |                    v
++----------------+            +----------------+
+|   Employee     |            |     Reader     |
++----------------+            +----------------+
+| - id           |            | - id           |
+| - name         |            | - firstName    |
+| - surname      |            | - lastName     |
+| - patronymic   |            | - patronymic   |
+| - address      |            | - address      |
+| - role         |            | - borrowedBooks |
+| - keyWord      |            +----------------+
++----------------+            | + borrowBook()  |
+| + toString()   |            | + returnBook()  |
++----------------+            +----------------+

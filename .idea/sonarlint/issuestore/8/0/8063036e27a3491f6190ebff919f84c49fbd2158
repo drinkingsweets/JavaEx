@@ -1,0 +1,17 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È°ñ˜8š¢ëÎ©2J$a08d4865-3fc5-4b85-98b2-3f20782f17df
+–
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8š¢ëÎ©2J$d02e8a9a-2d1a-471b-8106-761f2d71bee0
+“
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8›¢ëÎ©2J$63e9720c-be1d-41eb-bff8-3e522a9d123b
+•
+java:S1104"RMake author a static final constant or non-public and provide accessors if needed.(ÌÊß›8›¢ëÎ©2J$142e035c-fdc8-42ae-aca0-66cdebbfa737
+
+java:S1104"UMake publisher a static final constant or non-public and provide accessors if needed.(›±»–üÿÿÿÿ8›¢ëÎ©2J$eea53d23-1851-4240-bdcc-7df5ea89fea2
+“
+java:S1104"PMake year a static final constant or non-public and provide accessors if needed.(ğĞ ó8›¢ëÎ©2J$82df2814-e76c-43f2-abdd-7859743a5f8e
+–
+java:S1104	"TMake category a static final constant or non-public and provide accessors if needed.(¯™°Z8›¢ëÎ©2J$c0865b10-d3d5-4318-af70-10c0c7bf7b95
+›
+java:S1104
+"SMake isTaken a static final constant or non-public and provide accessors if needed.(şŞù’ùÿÿÿÿ8›¢ëÎ©2J$5bc5c58a-4730-4e8f-8cfe-0e9297c89cdf
