@@ -9,6 +9,6 @@ java:S1171"YMove the contents of this initializer to a standard constructor or
 r	java:S106	"+Replace this use of System.out by a logger.(·¡«åşÿÿÿÿ8ØÒï«2J$dc53bdea-3cee-434b-ba23-982056bbc917
 r	java:S106"+Replace this use of System.out by a logger.(×‹òÖüÿÿÿÿ8ÚÒï«2J$11cba2fa-69d7-40b5-a784-97827e6153a1
 w
-java:S1656"/Remove or correct this useless self-assignment.(É´“ıÿÿÿÿ8ÛÒï«2J$25d051c8-05e8-456f-bd31-97ae805cc223
-w
 java:S1656"/Remove or correct this useless self-assignment.(¤õ…ÿÿÿÿÿ8ÛÒï«2J$d4b84241-1cf9-4773-85f9-f87bc426abaf
+w
+java:S1656"/Remove or correct this useless self-assignment.(É´“ıÿÿÿÿ8ÛÒï«2J$25d051c8-05e8-456f-bd31-97ae805cc223
